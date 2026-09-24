@@ -41,7 +41,6 @@ Atualmente, estou direcionando minha carreira para a área de **Dados**, aprofun
 ### Data & Cloud
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-Data%20Engineering-6C63FF?style=flat)
 
 ---
 
